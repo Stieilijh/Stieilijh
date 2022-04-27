@@ -2,8 +2,7 @@
 - 👀 I’m interested in learning about the world
 - 🌱 I’m currently learning Bachelor's of Science in Bangalore , India
 - 💞️ I’m looking to collaborate on Any Science(Physics mainly)/Programming opportunity 
-- 📫 You can contact me through     Gmail id : saitushar02@gmail.com,
--                         Instagram username : stieilijh
+- 📫 You can contact me through     Gmail id : saitushar02@gmail.com, Instagram username : stieilijh
 -                         
 
 <!---
